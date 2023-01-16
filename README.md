@@ -1,0 +1,2 @@
+# geposszerako
+Gépösszerakó program
